@@ -1,0 +1,1 @@
+This is my first real project where I have to figure things out for myself. I hope this gives me a better understanding of CSS Grid. Maybe I can make it responsive!
